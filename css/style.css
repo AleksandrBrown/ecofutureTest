@@ -2315,13 +2315,13 @@ body .wrapper {
   }
 
   .starting-block__title p:nth-child(1) {
-    left: 20%;
+    left: 15%;
     font-size: 5rem;
     width: 45%;
   }
 
   .starting-block__title p:nth-child(2) {
-    left: 10%;
+    left: 15%;
     font-size: 5rem;
     width: 40%;
   }
@@ -2330,7 +2330,7 @@ body .wrapper {
     top: 90px;
     font-size: 5rem;
     left: 25%;
-    width: 45%;
+    width: 50%;
   }
 
   .starting-block__logos-slider {
